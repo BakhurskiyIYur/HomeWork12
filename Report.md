@@ -18,13 +18,13 @@
 <br>__*Новую таблицу с именем bookings_part создаю следующим образом:*__
 > <img src="pic/4.JPG" align="center" />
 
-<br>__*qqq*__
+<br>__*Далее создаю отдельные секции на каждый месяц:*__
 > <img src="pic/5.JPG" align="center" />
 
-<br>__*qqq*__
+<br>__*После создания отдельных секций для таблицы bookings_part смотрю получившееся описание:*__
 > <img src="pic/6.JPG" align="center" />
 
-<br>__*qqq*__
+<br>__*Теперь выполняю вставку данных из "старой" таблицы bookings в секционированную таблицу bookings_part:*__
 > <img src="pic/7.JPG" align="center" />
 
 <br>__*qqq*__
